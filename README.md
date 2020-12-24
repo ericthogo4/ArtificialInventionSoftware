@@ -1,4 +1,4 @@
-# ArtificialInventionApplication
+# Artificial Invention Application
 
 This is a repository for an application which uses knowledge to create inventions.
 

@@ -6,4 +6,4 @@ Feel free to input ideas by opening issues.
 
 The developer is in the problem definition phase of developing the application.
 
-Checkout the wil wiki for more information.
+Checkout the wiki for more information.

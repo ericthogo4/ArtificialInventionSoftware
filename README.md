@@ -1,9 +1,7 @@
-# Artificial Invention Application
+# Artificial Invention Software
 
-This is a repository for an application which uses knowledge to create inventions.
+This is a repository for software which uses knowledge to create inventions.
 
 Feel free to input ideas by opening discusssions.
-
-The developer is in the problem definition phase of developing the application.
 
 Checkout the wiki for more information.
